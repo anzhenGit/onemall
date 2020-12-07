@@ -14,7 +14,7 @@
     <modules>
         <module>trade-service-api</module>
         <module>trade-service-app</module>
-        <module>trade-service-integration-test</module>
+<!--        <module>trade-service-integration-test</module>-->
     </modules>
 
     <dependencyManagement>
